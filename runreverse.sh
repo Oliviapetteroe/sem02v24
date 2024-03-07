@@ -1,5 +1,5 @@
 #!/bin/bash
-GITHUBUSER="...fyll inn ditt brukernavn på Github ..."
+GITHUBUSER="oliviapetteroe"
 BASE="${HOME}/github.com/${GITHUBUSER}/fil/sem02v24"
 cd ${BASE}/c 
 echo -e "\n----- C --------"
